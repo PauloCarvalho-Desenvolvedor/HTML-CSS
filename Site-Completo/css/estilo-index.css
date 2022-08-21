@@ -1,0 +1,126 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    box-sizing: border-box;
+}
+
+body{
+    
+
+    background-image: url(../imagens/imagem1.jpg);
+    background-repeat: no-repeat;
+    background-position: center top;
+    background-size: cover;
+}
+
+header{
+    width: 100%;
+    height: auto;
+    text-align: center;
+    font-size: 2.2rem;
+    padding: 1.5rem;
+    background-color: rgba(100, 100, 50, .1);
+    
+}
+
+/*nav{
+    float: left;
+    width: 12%;
+    height: 8rem;
+    text-align: left;
+    margin: 2rem;
+    
+    
+}
+
+a{
+    text-decoration: none;
+    font-size: 1.2rem;
+    color: black;
+
+    
+}
+
+a:hover{
+    color: cornflowerblue;
+}*/
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+h3{
+    font-size: 1.8rem;
+    margin: 2rem;
+    margin-top: 2rem;
+    margin-bottom: 3rem;
+    text-shadow: rgba(17, 160, 196, .3) -10px 20px;
+
+
+}
+
+img{
+    margin-top: 1rem;
+    width: 130px;
+    height: 130px;
+    
+}
+
+.imagens{
+    width: 130px;
+    height: auto;
+    border: .1rem;    
+    margin: 3.5rem;
+    float: left;
+    font-size: 1rem;
+    background-color: rgba(100, 100, 150, .3);
+    border-radius: 50% 10px 30% 30px;
+   
+
+    
+}
+.imagens:hover{
+    background-color: rgba(17, 160, 196, 0.3);
+}
+
+
+
+#conteudo{
+    width: 100%;
+    margin: 1.5rem;
+    border-bottom: .1rem solid;
+    padding-bottom: .1rem;
+    text-align: left;
+    font-size: 1.2rem;
+    margin-left: 3rem;
+    text-shadow: rgb(17, 160, 196) 1px 0px 10px;
+}
+
+#rodape-conteudo{
+    width: 100%;
+    height: auto;
+    float: left;
+    margin-top: 1rem;
+}
+
+article{
+    float: left;
+    width: 80%;
+    height: 100%;
+    text-align: center;
+    padding: 1rem;
+}
+
+
+#rodape{
+    width: auto;
+    height: auto;
+    background-color: rgba(100, 100, 50, .1);
+    text-align: center;
+    padding: 1.2rem;
+    clear: both;
+
+}

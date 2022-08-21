@@ -1,0 +1,82 @@
+@import url("tabelas.css");
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+body{
+    background-image: url(../imagens/escritorio.png);
+    background-repeat: no-repeat;
+    background-position: center top;
+    background-size: 110rem;
+}
+
+header{
+    
+    background-color: rgba(240, 187, 115, .3);
+    text-align: center;
+    padding: 2.5rem;
+
+}
+
+p,h2,h5{
+    font-family: 'Cinzel', serif;
+}
+
+div{
+   
+    width: 79.5%;
+    height: 23.4rem;
+    float: left;
+    padding-left: 2rem;
+}
+
+
+
+nav{
+    background-color: rgba(168 , 93, 56, .8);
+    width: 15rem;
+    height: 23.4rem;
+    float: left;
+
+}
+
+
+h3{
+    font-size: 1.2rem;
+    line-height: 6rem;
+    text-align: center;
+    font-family:Arial, sans-serif;
+
+
+}
+
+a{
+    font-size: 1.2rem;
+    font-family: 'Cinzel', serif;
+    padding: 6px;
+    color: black;
+    text-decoration: none;
+    line-height: 1.8rem;
+
+}
+
+a:hover{
+    color: #F0BC73;
+
+}
+
+
+footer{
+    text-align: center;
+    padding: 2rem;
+}
+
+footer{
+    clear: both;
+    text-align: center;
+    background-color: rgba(240, 187, 115, .3);
+
+}

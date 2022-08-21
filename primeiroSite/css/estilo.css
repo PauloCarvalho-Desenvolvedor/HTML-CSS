@@ -1,0 +1,44 @@
+*{	
+	background: #DAF0C2;
+	margin: 0;
+	padding: 0;
+
+}
+
+header h2{
+	text-align: center;
+	padding: 25px;
+	font-size: 2.5rem;
+}
+
+
+.blocos{
+	background: white;
+	height: 250px;
+	width: 16rem;
+	float: left;
+	margin: 5px;
+	text-align: center;
+	box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+	border-radius: 20px;
+	font-size: 15px;
+	font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.imagem{
+	float: left;
+	height: 250px;
+	width: 16rem;
+	border-radius: 20px;
+
+}
+
+
+footer p{
+	text-align: center;
+	background: #DAF0C2;
+	padding: 15px;
+	clear: both;
+}
+
