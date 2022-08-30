@@ -1,0 +1,57 @@
+
+html {
+    font-size: 62.5%; 
+}
+
+body {
+    background-color: lightgrey;
+    font-family: 'Bitter', serifa;
+    
+}
+
+.main-container {
+    background-color: antiquewhite;
+    max-width: 1198px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+header {
+
+}
+
+h1 {
+    font-size: 2.4rem;
+    color: rgb(14, 48, 36);
+}
+
+h2 {
+    font-size: 2rem;
+    color: rgb(14, 48, 36);
+}
+
+h3 {
+    font-size: 1.8rem;
+    color: rgb(14, 48, 36);
+}
+
+h4 {
+    font-size: 1.6rem;
+    color: rgb(14, 48, 36);
+}
+
+section {
+    font-size: 1.5rem;
+}
+
+section nav {
+
+}
+
+section article {
+
+}
+
+footer {
+
+}
