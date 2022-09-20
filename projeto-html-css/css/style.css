@@ -35,6 +35,20 @@ header {
     font-size: 3rem;
 }
 
+.cog-branding__powered{
+    visibility: hidden !important;
+    
+}
+
+.cog-branding cog-branding--minimal{
+    visibility: hidden !important;
+    
+}
+
+.cog-abuse cog-wrapper{
+    visibility: hidden !important;
+}
+
 h1 {
     font-size: 2.4rem;
     color: rgb(14, 48, 36);
@@ -105,6 +119,8 @@ section article {
     width: 70%;
     
 }
+
+
 
 footer {
     background-color: aqua;    
